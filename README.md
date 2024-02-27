@@ -9,7 +9,11 @@ IoT 게이트웨이 기반 데이터 수집 및 분석
 
 FDS 시뮬레이션 데이터 기반 분석 
 
+-화재 판별 (그래프 상승각도 분석)
+
 모델링 및 분석 결과 시각화 
+![image](https://github.com/Junmarg/fire_system_sw/assets/42922109/7f7385bf-5235-4515-b859-15c9a89343c4)
+
 
 - 시각화(모바일): https://github.com/Junmarg/mobile_show_sw
 
