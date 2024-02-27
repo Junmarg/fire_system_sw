@@ -3,26 +3,34 @@
 
 https://github.com/Junmarg/fire_system_sw
 
-IoT 게이트웨이 기반 데이터 수집 및 분석 기능
+IoT 게이트웨이 기반 데이터 수집 및 분석 
 
-FDS 시뮬레이션 데이터 기반 분석 기능
+-gateway: https://github.com/Junmarg/gateway_sw
 
-모델링 및 분석 결과 시각화 기능
+FDS 시뮬레이션 데이터 기반 분석 
+
+모델링 및 분석 결과 시각화 
+
+- 시각화(모바일): https://github.com/Junmarg/mobile_show_sw
+
 
 
 ## 다중 피난경로 정보제공 S/W
 
-DB 기반 데이터 수집 및 분석 기능
+https://github.com/Junmarg/Path_analysis_sw
 
-모델링 및 분석 결과 시각화 기능
+DB 기반 데이터 수집 및 분석 
+
+모델링 및 분석 결과 시각화
+
 
 
 ## 화재확산 예측 S/W
 
 FDS 기반 화재 데이터 생성, 수집
 
+-fds: https://github.com/Junmarg/fds_remake
+
 데이터 전처리
 
-모델 학습 : ResNet-152 모델,
-
-![image](https://github.com/Junmarg/fire_system_sw/assets/42922109/77290394-577c-43f0-ac08-3f9c74065b2e)
+모델 학습 (ResNet-152 모델 사용)
