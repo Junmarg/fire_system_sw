@@ -1,4 +1,4 @@
-# 동적,능동 화재 발생 및 대응 설비 제어 기술 개발
+# AI기반 스마트하우징 기술개발
 ## 화재 안전 대응 시스템 S/W
 
 https://github.com/Junmarg/fire_system_sw
